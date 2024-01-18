@@ -1,4 +1,4 @@
-<div align="center"><img src="https://media.tenor.com/rCaIUO0MP-EAAAAC/mario-pixel-art.gif" width="895" height="485"/></div>
+<!--<div align="center"><img src="https://media.tenor.com/rCaIUO0MP-EAAAAC/mario-pixel-art.gif" width="895" height="485"/></div> -->
 
 <h1 align="center">Hi 👋, I'm Ashish Gaike</h1>
 <h3 align="center">I am a Microsoft Azure certified developer</h3>
