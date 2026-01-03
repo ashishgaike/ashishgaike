@@ -1,13 +1,13 @@
 <!--<div align="center"><img src="https://media.tenor.com/rCaIUO0MP-EAAAAC/mario-pixel-art.gif" width="895" height="485"/></div> -->
 
 <h1 align="center">Hi👋 <br>I'm Ashish Gaike😎</h1>
-<h2 align="center">💼Corporate coder by day, 🐛 Bug whisperer by night <br> ☕ Java Full Stack | Building stuff for humans (& maybe Robots🤖) <br> ⭐ Reviews, ⬆️ Uploads & Endless Tea 🫖</h2>
+<h2 align="center">💼Corporate coder by Day🌞, 🐛 Bug whisperer by Night🌚 <br> ☕ Java Full Stack | Building stuff for humans (& maybe Robots🤖) <br> ⭐ Reviews, ⬆️ Uploads & Endless Tea 🫖</h2>
 <h3 align="justified"> <br>Skilled Full Stack Java Developer with 2 years of experience in Designing, Developing, & Deploying Enterprise level Java Applications. Strong proficiency in OOPs, Java, Spring Boot, RESTful web services, and full-stack web development.</h3>
 <!-- <h3 align="center">I am a Microsoft Azure certified developer</h3> -->
 
 <div align = "left">
 <!-- 💫 About Me 💫 <br>  -->
-  👨‍💻 All of my projects are available at https://github.com/ashishgaike/<br>💬 Ask me about OOPs, DSA. Community & Ofcourse Tea🫖 <br>📫 How to reach me: ashishgaike21+githubcontact@gmail.com </div>
+  👨‍💻 All of my projects are available at https://github.com/ashishgaike/<br>💬 Ask me about OOPs, DSA. Community & Ofcourse Tea🫖 <br>📫 How to reach me: ashishgaike21+github@gmail.com </div>
 
 
 ### 🌐 Socials:
